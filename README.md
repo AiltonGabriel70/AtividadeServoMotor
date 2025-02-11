@@ -25,6 +25,6 @@ Para implementações físicas, é importante notar que servomotores consomem co
 
 Em resumo, o programa demonstra conceitos fundamentais de PWM, temporização e controle de hardware, servindo como base para projetos mais complexos em automação e robótica. A integração entre servo e LED ilustra de forma prática como sistemas embarcados podem coordenar múltiplos componentes de maneira eficiente.
 
-Link do video:  
+Link do video:  https://youtube.com/shorts/VOz_HRLJ0HA?si=se2xD7l05kzfsqEE
 
 
